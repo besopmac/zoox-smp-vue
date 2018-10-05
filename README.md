@@ -1,5 +1,13 @@
 # zoox-components
 
+## Telerik References
+- https://www.telerik.com/kendo-vue-ui/components/layout/tabstrip/#toc-suggested-links
+
+- https://docs.telerik.com/kendo-ui/styles-and-layout/using-kendo-in-responsive-web-pages        
+
+- https://www.telerik.com/forums/cant-seem-to-apply-any-css-override-styles-to-the-kendogrid-header
+
+
 ## Project setup
 ```
 yarn install
