@@ -1,0 +1,12 @@
+/*
+ *  Definições básicas da arquitetura ITCSS
+ *
+ *  1. Settings:    Configurações básicas, variáveis e outras definições globais
+ *  2. Tools:       Mixins, funções, animações, etc.
+ *  3. Generic:     Resets, box-sizing e propriedades com menor especificidade
+ *  4. Base:        Estilizações básicas na última camada com seletores em tags (h1, p, buttons, etc.)
+ *  5. Objects:     Padrões que se repetem em todo site em pequenos objetos / pedaços da interface, etc.
+ *  6. Components:  Componentes mais específicos, respeitando as regras de RSCSS (http://rscss.io/)
+ *  7. Trumps:      Camada com maior especificidade de todas, inclusive podendo usar o !important;
+ *
+ */
